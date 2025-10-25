@@ -2,6 +2,7 @@
 
 # Estrutura de Pastas - Projeto JS
 
+```
 desafio-2-JS/
 ├── index.html
 ├── style.css
@@ -14,3 +15,4 @@ desafio-2-JS/
     ├── index.html
     ├── style.css
     └── script.js
+```
